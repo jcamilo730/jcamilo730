@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo Vargas</h1>
 <h3 align="center">A passionate data engineer</h3>
 
-- 📫 How to reach me **jcamilo9219@gmail.com**
+Hello, I am a data engineer with a background in systems engineering, I really like programming and everything related to data science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
